@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Mahiru Shiina](https://media.tenor.com/nHOVR9k9zEoAAAAd/mahiru-shiina.gif)
+  <img src="https://media1.tenor.com/m/BcaRhp062G0AAAAd/mahiru-shiina.gif" width="400" />
   
   # 👋 Привет, я Samuray4ik
   
@@ -9,7 +9,6 @@
   <br>
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HolyZxc)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Samuray4ik04&style=for-the-badge&color=ff69b4)
 
 </div>
 
@@ -68,7 +67,7 @@ class Samuray4ik:
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/Qjq7c8ZtbzMAAAAC/mahiru-shiina-the-angel-next-door-spoils-me-rotten.gif" width="200" />
+  <img src="https://media1.tenor.com/m/Qjq7c8ZtbzMAAAAC/mahiru-shiina-the-angel-next-door-spoils-me-rotten.gif" width="200" />
   
   **Thanks for visiting!** ✨
 </div>
