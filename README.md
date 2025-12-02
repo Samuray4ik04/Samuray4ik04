@@ -58,14 +58,6 @@ class Samuray4ik:
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Samuray4ik04/Samuray4ik04/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://media1.tenor.com/m/Qjq7c8ZtbzMAAAAC/mahiru-shiina-the-angel-next-door-spoils-me-rotten.gif" width="200" />
   
