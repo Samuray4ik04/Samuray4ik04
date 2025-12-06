@@ -20,15 +20,13 @@
 class Samuray4ik:
     def __init__(self):
         self.role = "AI Exploiter"
-        self.skills = ["Prompt Engineering", "AI Automation", "Breaking Limits"]
-        self.motto = "If AI can do it, why should I?"
+        self.skills = ["AI"]
+        self.motto = "Deepseek хуйня"
     
     def daily_routine(self):
-        return "Making AI do everything 🤖"
+        return "Реальнр"
 ```
-
-- 🧠 Использую и эксплуатирую ИИ на максимум
-- ⚡ Автоматизирую всё что можно с помощью AI
+Сосу
 
 ---
 
