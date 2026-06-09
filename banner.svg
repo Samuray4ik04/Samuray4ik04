@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340" role="img" aria-label="Samuray43k — лютый вайбкодер">
+  <defs>
+    <linearGradient id="shine" x1="-1" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#8a571f"/>
+      <stop offset="0.35" stop-color="#b87935"/>
+      <stop offset="0.7" stop-color="#d4af52"/>
+      <stop offset="1"   stop-color="#b87935"/>
+      <animate attributeName="x1" values="-1;0.6;-1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;2.6;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="washBlush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f4c8c4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f4c8c4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="washGold" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d4af52" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#d4af52" stop-opacity="0"/>
+    </radialGradient>
+    <path id="petal" d="M0,-8 C6,-6 8,2 0,8 C-8,2 -6,-6 0,-8 Z"/>
+  </defs>
+
+  <!-- бумага -->
+  <rect x="1.5" y="1.5" width="957" height="337" rx="26" fill="#fff8ec" stroke="#ead9b8" stroke-width="3"/>
+  <rect x="11" y="11" width="938" height="318" rx="19" fill="none" stroke="#d4af52" stroke-opacity="0.35"/>
+
+  <!-- тёплые пятна света -->
+  <circle cx="130" cy="60" r="180" fill="url(#washBlush)"/>
+  <circle cx="850" cy="280" r="200" fill="url(#washGold)"/>
+
+  <!-- 天使様 -->
+  <text x="912" y="52" text-anchor="end" font-family="serif" font-size="19" letter-spacing="5" fill="#d4af52">天使様</text>
+
+  <!-- имя -->
+  <text x="480" y="168" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="600"
+        font-size="92" fill="url(#shine)">Samuray43k</text>
+
+  <!-- whoami с печатанием -->
+  <clipPath id="typeClip">
+    <rect x="293" y="206" width="0" height="38">
+      <animate attributeName="width" from="0" to="386" dur="1.7s" begin="0.6s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g font-family="ui-monospace, Consolas, Menlo, monospace" font-size="22">
+    <text x="295" y="233" clip-path="url(#typeClip)"><tspan fill="#b87935">$ whoami</tspan><tspan fill="#5a4a35" xml:space="preserve">  →  лютый вайбкодер</tspan></text>
+    <rect x="678" y="214" width="11" height="25" fill="#57a583">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- подпись -->
+  <text x="480" y="298" text-anchor="middle" font-family="ui-monospace, Consolas, Menlo, monospace"
+        font-size="13" letter-spacing="3" fill="#8c7a5e">сделано по вайбу · палитра — махиру сиина</text>
+
+  <!-- лепестки -->
+  <g>
+    <g opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="150,-20; 195,370" dur="12s" begin="-2s" repeatCount="indefinite"/>
+      <g fill="#f4c8c4"><use href="#petal">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="720" dur="12s" begin="-2s" repeatCount="indefinite"/>
+      </use></g>
+    </g>
+    <g opacity="0.75">
+      <animateTransform attributeName="transform" type="translate" values="330,-20; 300,370" dur="15s" begin="-9s" repeatCount="indefinite"/>
+      <g fill="#efd8a0"><use href="#petal" transform="scale(0.8)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-720" dur="15s" begin="-9s" repeatCount="indefinite" additive="sum"/>
+      </use></g>
+    </g>
+    <g opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="640,-20; 690,370" dur="13s" begin="-5s" repeatCount="indefinite"/>
+      <g fill="#8fd0b4"><use href="#petal" transform="scale(0.65)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="720" dur="13s" begin="-5s" repeatCount="indefinite" additive="sum"/>
+      </use></g>
+    </g>
+    <g opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="820,-20; 780,370" dur="16s" begin="-12s" repeatCount="indefinite"/>
+      <g fill="#f4c8c4"><use href="#petal" transform="scale(0.9)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-720" dur="16s" begin="-12s" repeatCount="indefinite" additive="sum"/>
+      </use></g>
+    </g>
+    <g opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="500,-20; 540,370" dur="18s" begin="-7s" repeatCount="indefinite"/>
+      <g fill="#efd8a0"><use href="#petal" transform="scale(0.7)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="720" dur="18s" begin="-7s" repeatCount="indefinite" additive="sum"/>
+      </use></g>
+    </g>
+    <g opacity="0.65">
+      <animateTransform attributeName="transform" type="translate" values="60,-20; 100,370" dur="17s" begin="-14s" repeatCount="indefinite"/>
+      <g fill="#8fd0b4"><use href="#petal" transform="scale(0.55)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-720" dur="17s" begin="-14s" repeatCount="indefinite" additive="sum"/>
+      </use></g>
+    </g>
+  </g>
+</svg>
