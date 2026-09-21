@@ -1,34 +1,52 @@
 <div align="center">
 
-<img src="banner.svg" alt="Samuray43k — лютый вайбкодер" width="100%">
+<a href="https://samuray4ik04.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <img src="banner-light.svg" alt="Samuray43k — лютый вайбкодер" width="100%">
+  </picture>
+</a>
 
 <br>
 
-### *«Любовь — это когда рядом светлее»* 💛
+### *«любовь — это когда рядом светлее»* ✳
 
 <br>
 
-[![telegram](https://img.shields.io/badge/telegram-%40HolyZxc-b87935?style=for-the-badge&logo=telegram&logoColor=fff8ec)](https://t.me/HolyZxc)
-[![tiktok](https://img.shields.io/badge/tiktok-%40samuray43k-9f3b3f?style=for-the-badge&logo=tiktok&logoColor=fff8ec)](https://tiktok.com/@samuray43k)
-[![сайт](https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-samuray4ik04.github.io-26364f?style=for-the-badge&logo=github&logoColor=fff8ec)](https://samuray4ik04.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-@HolyZxc-315b49?style=for-the-badge&logo=telegram&logoColor=f6f5ed)](https://t.me/HolyZxc) [![TikTok](https://img.shields.io/badge/TikTok-@samuray43k-805431?style=for-the-badge&logo=tiktok&logoColor=f6f5ed)](https://tiktok.com/@samuray43k) [![Сайт](https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-samuray4ik04.github.io-263f37?style=for-the-badge&logo=githubpages&logoColor=f6f5ed)](https://samuray4ik04.github.io)
 
 </div>
+
+<br>
+
+## ✦ Сейчас
+
+| | что | заметка |
+|:--|:--|:--|
+| ⌨️ **вайбкожу** | [личная страница](https://samuray4ik04.github.io) | мой полигон для идей |
+| ☀ **смотрю** | Ангел по соседству | Махиру, бенто и тихий уют |
+| ✧ **играю** | Honkai: Star Rail | Хохо в отряде, Хвостик — тоже |
+| 🎧 **слушаю** | lo-fi | под ночной код |
+
+## ✦ О себе
 
 ```console
 $ cat about.txt
 пишу код по вайбу, остальное приложится
 
+$ git commit -m "ещё чуть-чуть уюта" && git push
+✓ опубликовано
+
 $ vibe --check
 ✓ vibe is immaculate
 ```
 
+## ✦ Стек
+
+![HTML](https://img.shields.io/badge/HTML-f6f5ed?style=flat-square&logo=html5&logoColor=315b49) ![CSS](https://img.shields.io/badge/CSS-f6f5ed?style=flat-square&logo=css&logoColor=315b49) ![JavaScript](https://img.shields.io/badge/JavaScript-f6f5ed?style=flat-square&logo=javascript&logoColor=315b49) ![Python](https://img.shields.io/badge/Python-f6f5ed?style=flat-square&logo=python&logoColor=315b49)
+
+<br>
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samuray4ik04&show_icons=true&hide_border=true&bg_color=fff8ec&title_color=8a571f&text_color=5a4a35&icon_color=d4af52&ring_color=b87935&locale=ru" alt="GitHub-статистика" width="440">
-
-<br>
-<br>
-
-<sub>天使様 · сделано по вайбу · палитра — Махиру Сиина</sub>
-
+<sub>真昼 · 藿藿 — a little sunshine. a little spirit.</sub>
 </div>
