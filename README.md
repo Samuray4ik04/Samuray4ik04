@@ -43,7 +43,7 @@ $ vibe --check
 
 ## ✦ Стек
 
-![HTML](https://img.shields.io/badge/HTML-f6f5ed?style=flat-square&logo=html5&logoColor=315b49) ![CSS](https://img.shields.io/badge/CSS-f6f5ed?style=flat-square&logo=css&logoColor=315b49) ![JavaScript](https://img.shields.io/badge/JavaScript-f6f5ed?style=flat-square&logo=javascript&logoColor=315b49) ![Python](https://img.shields.io/badge/Python-f6f5ed?style=flat-square&logo=python&logoColor=315b49)
+![HTML](https://img.shields.io/badge/HTML-f6f5ed?style=flat-square&logo=html5&logoColor=315b49) ![CSS](https://img.shields.io/badge/CSS-f6f5ed?style=flat-square&logo=css&logoColor=315b49) ![JavaScript](https://img.shields.io/badge/JavaScript-f6f5ed?style=flat-square&logo=javascript&logoColor=315b49) ![Python](https://img.shields.io/badge/Python-f6f5ed?style=flat-square&logo=python&logoColor=315b49) ![Claude Code](https://img.shields.io/badge/Claude%20Code-f6f5ed?style=flat-square&logo=claude&logoColor=315b49) ![Git](https://img.shields.io/badge/Git-f6f5ed?style=flat-square&logo=git&logoColor=315b49) ![Linux](https://img.shields.io/badge/Linux-f6f5ed?style=flat-square&logo=linux&logoColor=315b49)
 
 <br>
 
